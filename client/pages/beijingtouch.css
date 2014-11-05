@@ -1,0 +1,63 @@
+.pages-home {
+	background: #257c98;
+}
+
+.pages-about {
+	background: #559d99;
+}
+
+.pages-touch {
+	background: #aa4d3c;	
+}
+
+.pages-tournament {
+	background: #c08f54;	
+}
+
+.pages-development {
+	background: #375d84;	
+}
+
+a, a:hover, a:focus {
+	color: #fff;
+	text-decoration: none;	
+}
+
+a:active, a:focus {
+	outline: none;	
+}
+
+.news-item {
+	display:block;
+	font-family:'Bariol';
+	font-weight:bold;
+	border:2px solid #fff;
+	border-radius:5px;
+	margin-top:20px;
+	padding:10px 20px;
+	background: #fff;
+	color: #257c98;
+	transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+
+.single-page-wrapper a {
+	opacity: 0.8;
+	text-decoration: underline;
+	transition: all 0.5s ease;
+	-webkit-transition: all 0.5s ease;
+	-moz-transition: all 0.5s ease;
+	-ms-transition: all 0.5s ease;
+	-o-transition: all 0.5s ease;
+}
+
+.single-page-wrapper a:hover {
+	opacity: 0.5;
+}
+
+textarea, input {
+	color: #000;
+}
