@@ -9,7 +9,7 @@ Meteor.methods({
 		// without waiting for the email sending to complete.
 		this.unblock();
 		Email.send({
-		  to: 'fake-address@notarealsite.com',
+		  to: 'brent_abrahams@yahoo.com',
 		  from: from,
 		  subject: 'Inquiry from beijingtouch.org',
 		  text: text
